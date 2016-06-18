@@ -23,6 +23,7 @@ public class MainActivity extends Activity {
     private MediaController mediaControls;
     String srcPath = "https://ia800208.us.archive.org/4/items/Popeye_forPresident/Popeye_forPresident_512kb.mp4";
 
+    
     String TAG = "com.ebookfrenzy.videoplayer";
     ProgressDialog pDialog;
 
